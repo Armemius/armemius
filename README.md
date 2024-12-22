@@ -9,3 +9,5 @@ Hi, my name is Arseniy
 🛡 Interested in cybersecurity and system programming
 
 If you'd like to learn more about me, you can visit my [website](https://armemius.github.io/) or check my repositories
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Armemius&hide_progress=true)
