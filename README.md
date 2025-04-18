@@ -9,3 +9,14 @@ Hi, my name is Arseniy
 🛡 Interested in cybersecurity and system programming
 
 If you'd like to learn more about me, you can visit my [website](https://armemius.github.io/) or check my repositories
+
+---
+
+If you're willing to support me 🥺🥺
+
+**My BTC wallet**: `1Am5ZnzQU4Lyy1Vwp3tbofADfFY7PKv3MU`
+**My USDT TRC20 wallet**: `TKw5vjuEUPPaokoqKZMM8KuYtkxihwzejR`
+
+<div style="width: 100%; display: flex; align-items: center; justify-content: center;">
+  <img src="./donate.png" alt="donate" />
+</div>
