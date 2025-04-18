@@ -10,13 +10,14 @@ Hi, my name is Arseniy
 
 If you'd like to learn more about me, you can visit my [website](https://armemius.github.io/) or check my repositories
 
----
+## Support my projects
 
 If you're willing to support me 🥺🥺
 
-**My BTC wallet**: `1Am5ZnzQU4Lyy1Vwp3tbofADfFY7PKv3MU` \
+**My BTC wallet**: `1Am5ZnzQU4Lyy1Vwp3tbofADfFY7PKv3MU`
+
 **My USDT TRC20 wallet**: `TKw5vjuEUPPaokoqKZMM8KuYtkxihwzejR`
 
-<div style="width: 100%; display: flex; align-items: center; justify-content: center;">
+<div align="center">
   <img src="./donate.png" alt="donate" />
 </div>
