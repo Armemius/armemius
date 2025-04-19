@@ -17,7 +17,3 @@ If you're willing to support me 🥺🥺
 **My BTC wallet**: `1Am5ZnzQU4Lyy1Vwp3tbofADfFY7PKv3MU`
 
 **My USDT TRC20 wallet**: `TKw5vjuEUPPaokoqKZMM8KuYtkxihwzejR`
-
-<div align="center">
-  <img src="./donate.png" alt="donate" />
-</div>
