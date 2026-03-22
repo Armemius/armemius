@@ -10,5 +10,5 @@ Hi, my name is Arseniy
 
 If you'd like to learn more about me, you can visit my [website](https://armemius.github.io/) or check my repositories
 
-![Статистика](https://github-readme-stats.vercel.app/api?username=romboooo&show_icons=true&theme=radical)
-![Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=romboooo&layout=compact&theme=radical)
+![Статистика](https://github-readme-stats.vercel.app/api?username=Armemius&show_icons=true&theme=radical)
+![Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=Armemius&layout=compact&theme=radical)
